@@ -94,6 +94,12 @@
   "[go]": {
     "editor.defaultFormatter": "golang.go"
   },
+  "[go.mod]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  "[go.sum]": {
+    "editor.defaultFormatter": "golang.go"
+  },
   "[shellscript]": {
     "editor.defaultFormatter": "mads-hartmann.bash-ide-vscode"
   },
