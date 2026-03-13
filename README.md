@@ -36,7 +36,7 @@ This is useful for users who want to maintain muscle memory from other operating
 ### Installation (All Platforms)
 
 ```bash
-git clone https://github.com/ckoliber/dotfiles.git
+git clone https://github.com/hoomaanx/dotfiles.git
 bash dotfiles/install.sh
 ```
 
