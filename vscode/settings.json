@@ -9,7 +9,10 @@
   // ======================================================
   // Editor behavior & formatting
   // ======================================================
+  "editor.tabSize": 2,
+  "prettier.tabWidth": 2,
   "editor.formatOnSave": true,
+  "editor.detectIndentation": false,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.fontFamily": "Cascadia Code, monospace",
 
