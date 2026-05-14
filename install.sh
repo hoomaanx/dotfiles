@@ -228,7 +228,7 @@ install_mise() {
     return
   fi
 
-  link "$DOTFILES/mise/config.toml" "$HOME/.config/mise/config.toml"
+  link "$DOTFILES/mise/mise.toml" "$HOME/.config/mise/mise.toml"
   mise install -y
 }
 
@@ -342,7 +342,7 @@ install_starship() {
     return
   fi
 
-  link "$DOTFILES/starship/config.toml" "$HOME/.config/starship.toml"
+  link "$DOTFILES/starship/starship.toml" "$HOME/.config/starship.toml"
 }
 
 install_alacritty() {

@@ -1,0 +1,8 @@
+[tools]
+jq = "1.8.1"
+yq = "4.52.4"
+shfmt = "3.13.1"
+docker-cli = "29.3.0"
+kubelogin = "1.36.1"
+kubectl = "1.36.1"
+k9s = "0.50.18"
